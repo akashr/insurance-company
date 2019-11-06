@@ -20,7 +20,7 @@ Mobile application : A mobile application developed on Java platform which can a
 
 #### Synopsis
 Database is acceses by using phpmyadmin. We are using mysqli for project. 
-Apache HTTP Server  is used  to host our website. Itís a web server software .
+Apache HTTP Server  is used  to host our website. It‚Äôs a web server software .
 PHP : Hypertext Preprocessor is a widely used, general-purpose scripting language that is designed for web development to produce dynamic web pages  . It is used in our project to produce all contents. 
 Phone Application details.
 * This application runs on J2ME(java to micro edition) platform of java.
@@ -47,8 +47,8 @@ WAMP(windows, apache, mysqli, php)  package whose principal components of the ar
 
 ##### Web designing
 
-- HTML : Hyper†Text†Markup†Language .It uses markup tags which is used to describe web pages.
-- CSS : Cascading†Style†Sheets.Styles define†how to display†HTML elements.Styles are normally stored in†Style Sheets
+- HTML : Hyper¬†Text¬†Markup¬†Language .It uses markup tags which is used to describe web pages.
+- CSS : Cascading¬†Style¬†Sheets.Styles define¬†how to display¬†HTML elements.Styles are normally stored in¬†Style Sheets
 - Hand made template designe for body, menues, sidebars, header and footers.
 - Spry Ajax framework : To create dropdown menus , and other website features.
 - Adobe Dreamvewer CS5 was used for application workspace.
@@ -58,7 +58,7 @@ WAMP(windows, apache, mysqli, php)  package whose principal components of the ar
 ```
 Mysqli : engine=innodb : to let update and deletion possible
 Username : root
-Password : î î
+Password : ‚Äù ‚Äù
 ```
 
 #### Motto
@@ -67,7 +67,7 @@ Our main motto of our were :
 * To create a user friendly interface with no clutter , and inessential on the main interface.
 * Easy navigational menu.
 * To make our project as application rich as possible.
-* To maintain our project connectivity through various modes ñ like handheld device app.
+* To maintain our project connectivity through various modes ‚Äì like handheld device app.
 * Easy and self-descriptive pages.
 
 There are three sets of users: Officers , Agents and Customers. Each of them have following functionality.
@@ -166,7 +166,7 @@ The Officier tree directory containing various php pages :
 * A minimalist design for our webpage and a user friendly interface with no clutter , and inessential on the main interface.
 * Easy navigational menu for assistance to customers.
 * To make our project as application rich as possible.
-*  Our project connects through various modes ñ like handheld device app.
+*  Our project connects through various modes ‚Äì like handheld device app.
 * Project provides various news updates by officers , and downloadable documents.
 
 
@@ -177,9 +177,5 @@ The Officier tree directory containing various php pages :
 * Mysql.com
 * Database Systems, Elmasri Navathe
 
----
-#### CONTACT
-abrar2002as@gmail.com  
-akash.rngt@gmail.com  
 
 copyright Abrar and Akash
